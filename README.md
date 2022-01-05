@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://api.whatsapp.com/send?phone=5511961703187&text=Ol%C3%A1%20Lucas%20Gostei%20de%20voc%C3%AA%2C%20Vamso%20conversar%20%3F" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+rede!+👋;Bem vindos ao meu Github;Espero+poder+contribuir;Podem+entrar+em+contato;Contatos+logo+abaixo !&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+rede!+👋;Bem vindos ao meu Github;Espero+poder+contribuir!&center=true&size=25">
   </a>
 </h1>
 
